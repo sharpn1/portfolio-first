@@ -7,4 +7,8 @@ Current Release: built on December 12, 2023.
 
 To see what's new, please visit: http://127.0.0.1:5501/index.html
 
+<<<<<<< HEAD
 ![Alt text](final.jpg)
+=======
+![Alt text](final.jpg)
+>>>>>>> 8e25f4ca3c4058c92d277d44571abf6150fb982f
